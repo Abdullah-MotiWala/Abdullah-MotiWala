@@ -4,8 +4,10 @@
 I specialize in building **scalable SaaS, Fintech, and AI-powered applications**. With a strong foundation in full-stack engineering, I love crafting solutions that are efficient, reliable, and impactful. I also mentor aspiring developers, empowering the next generation of engineers.  
 
 🌍 Based in Karachi, Pakistan (open to relocation)  
+📱 +92 317 0268439  
 📧 [Email](mailto:motiwalaabdullah100@gmail.com)  
-💼 [LinkedIn](https://pk.linkedin.com/in/abdullahmotiwala) | 🖥️ [GitHub](https://github.com/Abdullah-MotiWala)  
+💼 [LinkedIn](https://pk.linkedin.com/in/abdullahmotiwala)
+🖥️ [GitHub](https://github.com/Abdullah-MotiWala)  
 
 ---
 
