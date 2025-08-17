@@ -1,7 +1,6 @@
-# Hi, I'm Abdullah Motiwala <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
+# Hi, I'm Abdullah Motiwala <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">  
 
-<img src="https://media.giphy.com/media/2A75RyXVzzSI2bx4Gj/giphy.gif" width="40px">
- **Lead Software Engineer | Full Stack Developer | Instructor**  
+🚀 **Lead Software Engineer | Full Stack Developer | Instructor**  
 I specialize in building **scalable SaaS, Fintech, and AI-powered applications**. With a strong foundation in full-stack engineering, I love crafting solutions that are efficient, reliable, and impactful. I also mentor aspiring developers, empowering the next generation of engineers.  
 
 🌍 Based in Karachi, Pakistan (open to relocation)  
@@ -12,17 +11,17 @@ I specialize in building **scalable SaaS, Fintech, and AI-powered applications**
 
 ---
 
-## 👨‍💻 About Me  
+## <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="25px"> About Me  
 - 💡 Experienced in **software engineering**, with expertise in **scalable web apps, cloud, and AI-powered solutions**  
 - 🔗 Strong backend experience in **Node.js, NestJS, PostgreSQL, MongoDB, Prisma, and microservices**  
 - ☁️ Skilled with **AWS, GitHub Actions, CI/CD pipelines, and modern DevOps practices**  
-- 🧑‍🏫 Instructor at **SMIT & BanoQabil**, where I’ve trained **150+ students** in the MERN stack  
+- 👨‍🏫 Instructor at **SMIT & BanoQabil**, where I’ve trained **150+ students** in the MERN stack  
 - 🤖 Enthusiast in **AI engineering**: integrating **LangChain, LangGraph, Ollama, and RAG pipelines** into real-world projects  
 - 🌱 Passionate about **mentoring teams**, improving development workflows, and contributing to **open-source**  
 
 ---
 
-## 🏢 Experience  
+## <img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" width="28px"> Experience  
 
 - **Lead Software Engineer @ Zenkoders** (2025 – Present)  
   - Delivered multiple **AI-powered client solutions**, automating workflows and reducing manual effort by **70%**  
@@ -48,7 +47,6 @@ I specialize in building **scalable SaaS, Fintech, and AI-powered applications**
 ---
 
 ## 🎓 Volunteering & Teaching  
-
 - **MERN Stack Instructor – SMIT & BanoQabil** (2023 – Present)  
   - Taught **150+ students** from beginner to advanced MERN stack concepts  
   - Designed practical assignments and coding projects, improving learning outcomes by **40%**  
@@ -57,7 +55,6 @@ I specialize in building **scalable SaaS, Fintech, and AI-powered applications**
 ---
 
 ## 🛠️ Tech Stack  
-
 **Frontend:** React.js, Next.js, Angular, Electron.js, Tailwind CSS, Material UI, Redux, Zustand  
 **Backend:** Node.js, Express.js, NestJS, PostgreSQL, MySQL, SQLite, Prisma, MongoDB, Microservices  
 **DevOps / Cloud:** AWS, GitHub Actions, Docker, CI/CD, Firebase, Supabase  
@@ -66,21 +63,17 @@ I specialize in building **scalable SaaS, Fintech, and AI-powered applications**
 ---
 
 ## 📈 GitHub Stats  
-
 ![Abdullah's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abdullah-MotiWala&show_icons=true&theme=tokyonight)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullah-MotiWala&layout=compact&theme=tokyonight)  
 
 ---
 
 ## 🏆 GitHub Trophies  
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=Abdullah-MotiWala&theme=tokyonight&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)  
 
 ---
 
-## <img src="https://media.giphy.com/media/iGhcS7qQp4nL2/giphy.gif" width="35px">
- Featured Projects  
-
+## 🚀 Featured Projects  
 - **Recruiting Management System** – Built employee ranking + real-time communication using **WebSockets & Microservices**  
 - **Fintech SaaS Applications** – Designed secure and scalable applications at **Takaful Bazaar**, handling sensitive financial data  
 - **AI-Powered Apps** – Integrated **LangChain and RAG pipelines** into client-facing products, enabling smart automation  
@@ -88,5 +81,4 @@ I specialize in building **scalable SaaS, Fintech, and AI-powered applications**
 
 ---
 
-<img src="https://media.giphy.com/media/yoJC2K6rCzwNY2EngA/giphy.gif" width="35px">
- Always open to **collaborations, open-source contributions, and exciting opportunities**.  
+⭐️ Always open to **collaborations, open-source contributions, and exciting opportunities**.  
