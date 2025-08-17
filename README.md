@@ -1,6 +1,7 @@
 # Hi, I'm Abdullah Motiwala <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
 
-🚀 **Lead Software Engineer | Full Stack Developer | Instructor**  
+<img src="https://media.giphy.com/media/2A75RyXVzzSI2bx4Gj/giphy.gif" width="40px">
+ **Lead Software Engineer | Full Stack Developer | Instructor**  
 I specialize in building **scalable SaaS, Fintech, and AI-powered applications**. With a strong foundation in full-stack engineering, I love crafting solutions that are efficient, reliable, and impactful. I also mentor aspiring developers, empowering the next generation of engineers.  
 
 🌍 Based in Karachi, Pakistan (open to relocation)  
@@ -77,7 +78,8 @@ I specialize in building **scalable SaaS, Fintech, and AI-powered applications**
 
 ---
 
-## 🚀 Featured Projects  
+## <img src="https://media.giphy.com/media/iGhcS7qQp4nL2/giphy.gif" width="35px">
+ Featured Projects  
 
 - **Recruiting Management System** – Built employee ranking + real-time communication using **WebSockets & Microservices**  
 - **Fintech SaaS Applications** – Designed secure and scalable applications at **Takaful Bazaar**, handling sensitive financial data  
@@ -86,4 +88,5 @@ I specialize in building **scalable SaaS, Fintech, and AI-powered applications**
 
 ---
 
-⭐️ Always open to **collaborations, open-source contributions, and exciting opportunities**.  
+<img src="https://media.giphy.com/media/yoJC2K6rCzwNY2EngA/giphy.gif" width="35px">
+ Always open to **collaborations, open-source contributions, and exciting opportunities**.  
