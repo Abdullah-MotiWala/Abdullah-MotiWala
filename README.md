@@ -1,4 +1,4 @@
-# Hi, I'm Abdullah Motiwala 👋  
+# Hi, I'm Abdullah Motiwala <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
 
 🚀 **Lead Software Engineer | Full Stack Developer | Instructor**  
 I specialize in building **scalable SaaS, Fintech, and AI-powered applications**. With a strong foundation in full-stack engineering, I love crafting solutions that are efficient, reliable, and impactful. I also mentor aspiring developers, empowering the next generation of engineers.  
