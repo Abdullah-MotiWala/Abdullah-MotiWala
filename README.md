@@ -21,15 +21,9 @@ I specialize in building **scalable SaaS, Fintech, and AI-powered applications**
 
 ---
 
-## <img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" width="28px"> Experience  
+## <img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" width="28px"> Experience    
 
-- **Lead Software Engineer @ Zenkoders** (2025 – Present)  
-  - Delivered multiple **AI-powered client solutions**, automating workflows and reducing manual effort by **70%**  
-  - Scaled **enterprise-grade applications** to handle thousands of concurrent users with high availability and fault tolerance  
-  - Led architecture design and team code reviews, ensuring **clean code, reduced bugs, and faster delivery cycles**  
-  - Collaborated with product teams to rapidly deliver **MVPs**, reducing client go-to-market time by **35%**  
-
-- **Software Engineer @ Takaful Bazaar** (2022 – 2025)  
+- **Lead Software Engineer @ Takaful Bazaar** (2022 – 2025)  
   - Designed and implemented **scalable fintech applications** using **NestJS, Node.js, PostgreSQL, React.js**  
   - Improved system efficiency by **30%** through performance optimization  
   - Reduced technical debt by **25%** with continuous code reviews and refactoring  
