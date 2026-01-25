@@ -1,7 +1,9 @@
 # Hi, I'm Abdullah Motiwala <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">  
 
-🚀 **Senior Software Engineer | Full Stack Developer | Instructor**  
-I specialize in building **scalable SaaS, Fintech, and AI-powered applications**. With a strong foundation in full-stack engineering, I love crafting solutions that are efficient, reliable, and impactful. I also mentor aspiring developers, empowering the next generation of engineers.  
+🚀 **MVP Builder | AI Integrated SaaS | Tech Trainer**  
+**I help founders launch in 6–8 weeks, while delivering results from week two.**  
+I specialize in breaking down complex projects into **achievable, value-adding milestones** and building **custom MVPs**, **AI-integrated solutions**, and **business automations** for **SaaS, Fintech, and AI-driven products**.
+
 
 📱 +44 7366 278728
 📧 [Email](mailto:abdullah@mintodes.com)
