@@ -13,10 +13,12 @@ I specialize in breaking down complex projects into **achievable, value-adding m
 ---
 
 ## <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="25px"> About Me  
+- 🚀 Worked with **25+ founders** to build and launch products  
+- ⏳ **5+ years** of professional experience in software development and AI-powered solutions
 - 💡 Experienced in **software engineering**, with expertise in **scalable web apps, cloud, and AI-powered solutions**  
 - 🔗 Strong backend experience in **Node.js, NestJS, PostgreSQL, MongoDB, Prisma, and microservices**  
 - ☁️ Skilled with **AWS, GitHub Actions, CI/CD pipelines, and modern DevOps practices**  
-- 👨‍🏫 Instructor at **SMIT & BanoQabil**, where I’ve trained **150+ students** in the MERN stack  
+- 👨‍🏫 Instructor at **SMIT & BanoQabil**, where I’ve trained **600+ students** in the MERN stack  
 - 🤖 Enthusiast in **AI engineering**: integrating **LangChain, LangGraph, Ollama, and RAG pipelines** into real-world projects  
 - 🌱 Passionate about **mentoring teams**, improving development workflows, and contributing to **open-source**  
 
