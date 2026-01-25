@@ -1,11 +1,10 @@
 # Hi, I'm Abdullah Motiwala <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">  
 
-🚀 **Lead Software Engineer | Full Stack Developer | Instructor**  
+🚀 **Senior Software Engineer | Full Stack Developer | Instructor**  
 I specialize in building **scalable SaaS, Fintech, and AI-powered applications**. With a strong foundation in full-stack engineering, I love crafting solutions that are efficient, reliable, and impactful. I also mentor aspiring developers, empowering the next generation of engineers.  
 
-🌍 Based in Karachi, Pakistan (open to relocation)  
-📱 +92 317 0268439  
-📧 [Email](mailto:motiwalaabdullah100@gmail.com)  
+📱 +44 7366 278728 | +92 317 0268439 
+📧 [Email](mailto:abdullah@mintodes.com) | [Email](mailto:motiwalaabdullah100@gmail.com)   
 💼 [LinkedIn](https://pk.linkedin.com/in/abdullahmotiwala)
 🖥️ [GitHub](https://github.com/Abdullah-MotiWala)  
 
