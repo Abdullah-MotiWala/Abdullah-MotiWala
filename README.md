@@ -45,7 +45,7 @@ I specialize in breaking down complex projects into **achievable, value-adding m
 
 ## 🎓 Volunteering & Teaching  
 - **MERN Stack Instructor – SMIT & BanoQabil** (2023 – Present)  
-  - Taught **150+ students** from beginner to advanced MERN stack concepts  
+  - Taught **600+ students** from beginner to advanced MERN stack concepts  
   - Designed practical assignments and coding projects, improving learning outcomes by **40%**  
   - Mentored students 1-on-1, troubleshooting technical challenges and enhancing coding best practices  
 
