@@ -3,8 +3,8 @@
 🚀 **Senior Software Engineer | Full Stack Developer | Instructor**  
 I specialize in building **scalable SaaS, Fintech, and AI-powered applications**. With a strong foundation in full-stack engineering, I love crafting solutions that are efficient, reliable, and impactful. I also mentor aspiring developers, empowering the next generation of engineers.  
 
-📱 +44 7366 278728 | +92 317 0268439 
-📧 [Email](mailto:abdullah@mintodes.com) | [Email](mailto:motiwalaabdullah100@gmail.com)   
+📱 +44 7366 278728
+📧 [Email](mailto:abdullah@mintodes.com)
 💼 [LinkedIn](https://pk.linkedin.com/in/abdullahmotiwala)
 🖥️ [GitHub](https://github.com/Abdullah-MotiWala)  
 
