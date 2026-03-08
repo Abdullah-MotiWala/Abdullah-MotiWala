@@ -8,7 +8,7 @@ I specialize in breaking down complex projects into **achievable, value-adding m
 📱 +44 7366 278728
 📧 [Email](mailto:abdullah@mintodes.com)
 💼 [LinkedIn](https://pk.linkedin.com/in/abdullahmotiwala)
-🖥️ [GitHub](https://github.com/Abdullah-MotiWala)  
+🖥️ [Website](https://mintodes.com)  
 
 ---
 
