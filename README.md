@@ -1,11 +1,10 @@
 # Hi, I'm Abdullah Motiwala <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">  
 
-🚀 **MVP Builder | AI Integrated SaaS | Tech Trainer**  
+🚀 **Custom MVP Builder | AI Integrated SaaS | Tech Trainer**  
 **I help founders launch in 6–8 weeks, while delivering results from week two.**  
 I specialize in breaking down complex projects into **achievable, value-adding milestones** and building **custom MVPs**, **AI-integrated solutions**, and **business automations** for **SaaS, Fintech, and AI-driven products**.
 
 
-📱 +44 7366 278728
 📧 [Email](mailto:abdullah@mintodes.com)
 💼 [LinkedIn](https://pk.linkedin.com/in/abdullahmotiwala)
 🖥️ [Website](https://mintodes.com)  
